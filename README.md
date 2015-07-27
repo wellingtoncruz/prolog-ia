@@ -1,2 +1,5 @@
 # prolog-ia
-Exemplos de uso da linguagem Prolog para solução de problemas de lógica matemática e otimização de problemas.
+Simple Prolog experiments for mathematical problems and path
+optimization. Solve problems of Graph theory, and find the 
+shortest way from one subway station to another, based on
+Portugal subway map.
